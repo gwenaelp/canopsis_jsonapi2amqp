@@ -1,0 +1,7 @@
+{
+	"requests": [{
+			"name": "issues_github",
+			"url":"https://api.github.com/repos/capensis/canopsis/issues",
+			"formatter": "issues_github"
+		}]
+}
